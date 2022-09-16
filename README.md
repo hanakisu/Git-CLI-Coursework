@@ -10,6 +10,8 @@ You __CANNOT__ open Github Desktop.
 
 <!-- Write your answer here -->
 my answer is
+Working from the CLI is by far more memory-friendly than using a GUI app and a good sample scenario is Git. 
+The top GUI apps for Git are memory-efficient enough but using Git directly from the command line is the most memory-friendly your operations can be. 6. Distro-agnostic
 
 2. What is the Git command to send your code to Github?
 
